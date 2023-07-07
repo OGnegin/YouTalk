@@ -1,0 +1,124 @@
+header {
+	display: flex;
+	justify-content: space-evenly;
+	color: black;
+	height: 76px;
+	width: max-width;
+	left: 0px;
+	border-radius: 0px;
+	position: relative;
+	top: 16px;
+}
+.button_header {
+	position: relative;
+	bottom: 18px;
+	border: none;
+	color: #03B2A5;
+	padding: 20px 14px;
+	background-color: #E3F5F5;
+}
+hr {
+	position: relative;
+	bottom: 15px;
+}
+.talk {
+	position: relative;
+	top: 15px;
+	right: 85px;
+}
+.Zagolovki {
+	display: flex;
+	flex-direction: column;
+}
+main {
+	position: relative;
+	left: 120px;
+}
+a {
+	color: black;
+}
+p {
+	font-size: 16px;
+	color: black;
+}
+.comment_anna {
+	width: 690px;
+	height: 162px;
+	background-color: #F3F7FE;
+}
+li {
+	color: #03B2A5;
+}
+li span {
+	color: black;
+}
+.button_footer {
+	position: relative;
+	border: none;
+	color: white;
+	padding: 20px 14px;
+	background-color: #16C8BB;
+	top: 140px;
+}
+footer {
+	position: relative;
+	left: 120px;
+}
+.pryamoygolnik_1 {
+	width: 282px;
+	height: 512px;
+	background-color: #E6F0FD;
+	position: relative;
+	left: 1038px;
+	bottom: 4670px;
+	z-index: -2;
+	border-radius: 16px;
+}
+.pryamoygolnik_2 {
+	width: 282px;
+	height: 481px;
+	background-color: #FFFFFF;
+	border-radius: 16px;
+	border:1px solid #DEDEDE;
+	position: relative;
+	left: 1038px;
+	bottom: 4650px;
+}
+.perepiska {
+	height: 24px;
+	width: 105px;
+	
+	border-radius: 6px;
+	padding: 0px 6px 0px 6px;
+	background-color: #F3F4F8B2;
+	position: relative;
+	bottom: 425px;
+}
+.video {
+	height: 24px;
+	width: 74px;
+	border-radius: 6px;
+	padding: 0px 6px 0px 6px;
+	background-color: #F3F4F8B2;
+	position: relative;
+	bottom: 425px;
+}
+.Rectangle_3 {
+	width: 282px;
+	height: 292px;
+	background-color: #2963A3;
+	border-radius: 16px;
+	position: relative;
+	left: 1038px;
+	bottom: 4640px;
+}
+.Rectangle_4 {
+	width: 282px;
+	height: 304px;
+	border-radius: 24px;
+	border-style: solid;
+	border-color: gray;
+	position: relative;
+	left: 1038px;
+	bottom: 4630px;
+}

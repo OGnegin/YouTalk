@@ -1,0 +1,136 @@
+.rechtengle_first {
+	height: 500px;
+	width: 588px;
+	border: 1px;
+	border-radius: 10px;
+	position: relative;
+	border-color: #DEDEDE;
+	border-style: solid;
+}
+.rechtengle_two {
+	height: 476px;
+	width: 384px;
+	border: 1px;
+	border-radius: 10px;
+	position: relative;
+	border-color: #DEDEDE;
+	border-style: solid;
+}
+img {
+	border-radius: 10px
+}
+.rechtengle_two_div {
+	position: relative;
+	top: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
+.Tadding {
+	position: absolute;
+	top: 0px;
+	
+}
+.Tadding_1 {
+	border: 1px solid black; 
+	border-radius: 24px; 
+	background: #FFFFFFB2;
+}
+header {
+	display: flex;
+	justify-content: space-evenly;
+	color: black;
+	height: 76px;
+	width: max-width;
+	left: 0px;
+	border-radius: 0px;
+	position: relative;
+	top: 16px;
+}
+
+.Tadding_main {
+	border-radius: 24px;
+	border: 1px solid black;
+	width: max-width;
+	height: max-height;
+	border-color: #C1C5CD;
+	border-style: style;
+	padding: 6px, 8px, 6px, 8px;
+}
+
+.button_header {
+	position: relative;
+	bottom: 18px;
+	border: none;
+	color: #03B2A5;
+	padding: 20px 14px;
+	background-color: #E3F5F5;
+}
+hr {
+	position: relative;
+	bottom: 15px;
+}
+.more {
+	position: relative;
+	top: 56px;
+	left: 45%;
+}
+.button_more {
+	border: none;
+	color: #FFFFFF;
+	padding: 12px 72px;
+	background-color: #35B3A9;
+}
+footer {
+	position: relative;
+	top: 152px;
+	background-color: #2963A3;
+	display: flex;
+	color: white;
+	height: 302px;
+	width: max-width;
+}
+.one_section {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	top: 20px;
+	left: 120px;
+}
+.two_cection {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	top: 20px;
+	left: 140px;
+}
+.three_cection {
+	display: flex;
+	flex-direction: column;
+	position: relative;
+	top: 15px;
+	left: 150px;
+}
+.talk {
+	position: relative;
+	top: 15px;
+	right: 85px;
+}
+.Participant {
+	position: relative;
+	bottom: 15px;
+	left: 355px;
+}
+.Rectangle {
+	position: relative;
+	width: 32px;
+	height: 32px;
+	left:260px;
+	top: 25px;
+
+background: #EFF5FB;
+border-radius: 60px;
+}
+.Bluer {
+	opacity: 70%;
+}
